@@ -1,0 +1,12 @@
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\net5.0\UrnaEletronica.Domain.deps.json
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\net5.0\UrnaEletronica.Domain.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\net5.0\ref\UrnaEletronica.Domain.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\bin\Debug\net5.0\UrnaEletronica.Domain.pdb
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\UrnaEletronica.Domain.csproj.AssemblyReference.cache
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\UrnaEletronica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\UrnaEletronica.Domain.AssemblyInfoInputs.cache
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\UrnaEletronica.Domain.AssemblyInfo.cs
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\UrnaEletronica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\UrnaEletronica.Domain.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\ref\UrnaEletronica.Domain.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Domain\obj\Debug\net5.0\UrnaEletronica.Domain.pdb

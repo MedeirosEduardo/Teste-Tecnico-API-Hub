@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UrnaEletronica.Interface/1.0.0": {
+        "dependencies": {
+          "UrnaEletronica.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UrnaEletronica.Interface.dll": {}
+        }
+      },
+      "UrnaEletronica.Domain/1.0.0": {
+        "runtime": {
+          "UrnaEletronica.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UrnaEletronica.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UrnaEletronica.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

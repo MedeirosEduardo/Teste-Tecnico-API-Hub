@@ -1,0 +1,15 @@
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\bin\Debug\net5.0\UrnaEletronica.Interface.deps.json
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\bin\Debug\net5.0\UrnaEletronica.Interface.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\bin\Debug\net5.0\ref\UrnaEletronica.Interface.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\bin\Debug\net5.0\UrnaEletronica.Interface.pdb
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\bin\Debug\net5.0\UrnaEletronica.Domain.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\bin\Debug\net5.0\UrnaEletronica.Domain.pdb
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.csproj.AssemblyReference.cache
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.AssemblyInfoInputs.cache
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.AssemblyInfo.cs
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.csproj.CopyComplete
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\ref\UrnaEletronica.Interface.dll
+C:\Users\Eduardo Medeiros\Documents\Teste técnico\UrnaEletronica\UrnaEletronica.Interface\obj\Debug\net5.0\UrnaEletronica.Interface.pdb

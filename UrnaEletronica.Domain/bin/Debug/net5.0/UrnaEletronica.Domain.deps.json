@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UrnaEletronica.Domain/1.0.0": {
+        "runtime": {
+          "UrnaEletronica.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UrnaEletronica.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
